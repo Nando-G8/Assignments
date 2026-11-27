@@ -1,4 +1,4 @@
-# Safety Stock Analysis (OM 620)
+# Safety Stock Analysis
 
 This project cleans and analyzes about 712,000 inventory transactions to calculate **safety stock by SKU** for **make-to-stock (MTS)** products, so the business can hold enough buffer inventory to meet demand at a chosen service level.
 
