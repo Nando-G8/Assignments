@@ -13,12 +13,12 @@ where $z_{\alpha}$ is the z-score for the service level, $\sigma_{d}$ is the sta
 ## Repository Structure
 
 ```
-├── README.md
 ├── data/
 │   ├── transaction_data.csv   Raw inventory transactions (711,662 rows, 9 columns)
 │   └── meta_data.csv          Description of each feature
 └── notebooks/
     └── safety_stock_analysis.ipynb   Combined notebook for Assignments 1 and 2
+├── README.md
 ```
 
 ## Data
